@@ -1,0 +1,146 @@
+body {
+    background: #fff;
+    color: #1d2129;
+    direction: ltr;
+    line-height: 1.34;
+    margin: 0;
+    padding: 0;
+    unicode-bidi: embed;
+}
+
+#fbTimelineHeadline .name {
+    overflow: hidden
+}
+
+._6-d #fbTimelineHeadline .profilePicThumb {
+    box-shadow: none;
+    left: 15px;
+    margin-top: 0;
+    top: -143px
+}
+
+#fbTimelineHeadline .profilePicThumb {
+    background: rgba(0, 0, 0, .3);
+    border-radius: 3px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, .07);
+    display: block;
+    left: 23px;
+    margin-top: -121px;
+    padding: 1px;
+    position: absolute
+}
+
+a {
+    color: #365899;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+#fbTimelineHeadline .profilePicThumb .img {
+    display: block;
+}
+
+#fbTimelineHeadline .profilePic {
+    height: 160px;
+    width: 160px;
+}
+
+#fbTimelineHeadline .profilePic,#fbTimelineHeadline .newProfilePic {
+    background-color: #fff;
+    border: 4px solid #fff;
+    border-radius: 2px;
+}
+
+img {
+    border: 0;
+}
+
+html #fbProfileCover ._5ycb ._23fv {
+    bottom: 21px;
+    left: 20px;
+    overflow: hidden;
+    width: 160px;
+}
+
+._6-d #fbProfileCover .fbTimelineProfilePicSelector {
+    bottom: 30px;
+    left: 15px;
+    text-align: center;
+    top: auto;
+    width: 170px
+}
+
+._156n {
+    display: block;
+    overflow: hidden;
+    position: relative;
+    text-align: left
+}
+
+._23fw:before,._23fw:after {
+    background: #000;
+    background: rgba(0, 0, 0, .6);
+    background: linear-gradient(transparent, rgba(0, 0, 0, .6) 50%, rgba(0, 0, 0, .6) 100%);
+    content: '';
+    height: 200%;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 100%;
+    transition: top .13s ease-out;
+    z-index: -1
+}
+
+._3qpg,._23fw ._156p,._5ycb:hover._3ivw ._156p,._3qph {
+    opacity: 0;
+    transition: opacity .13s ease-out
+}
+
+._156n a {
+    color: #fff;
+    display: block
+}
+
+._156p {
+    -webkit-font-smoothing: antialiased;
+    font-weight: 700;
+    max-width: 120px;
+    padding: 10px 12px 10px 35px
+}
+
+.sp_L7TcyeJXTHO.sx_764cfa {
+    width: 26px;
+    height: 21px;
+    background-position: 0 0
+}
+
+._5ycb:hover._3ivw ._23fw ._1din,._23fw ._156q {
+    bottom: 23px;
+    opacity: 1;
+    transform: none
+}
+
+.sp_L7TcyeJXTHO {
+    background-image: url(/rsrc.php/v3/yp/r/jorZpbB6VFk.png);
+    background-size: auto;
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 20px;
+    width: 20px
+}
+
+._1din {
+    transition: all .3s cubic-bezier(.175, .885, .32, 1.275);
+}
+
+._1din {
+    left: 5px;
+    margin-bottom: -15px;
+}
+
+._156q {
+    bottom: 50%;
+    left: 11px;
+    margin-bottom: -10px;
+    position: absolute
+}

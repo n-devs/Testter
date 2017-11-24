@@ -1,0 +1,74 @@
+.timelineLayout #globalContainer {
+    clear: both;
+}
+
+.sidebarMode #globalContainer {
+    padding-right: 205px;
+}
+
+.fbx #globalContainer {
+    width: 981px;
+}
+
+#globalContainer {
+    margin: 0 auto;
+    position: relative;
+    zoom: 1;
+}
+
+#content {
+    margin: 0;
+    outline: none;
+    padding: 0;
+    width: auto;
+}
+
+.fbx .fb_content {
+    padding-bottom: 0;
+}
+
+.fb_content {
+    min-height: 612px;
+    padding-bottom: 20px;
+}
+
+.clearfix {
+    zoom: 1;
+}
+
+.clearfix:after {
+    clear: both;
+    content: ".";
+    display: block;
+    font-size: 0;
+    height: 0;
+    line-height: 0;
+    visibility: hidden;
+}
+
+#mainContainer {
+    margin-left: -1px;
+    display: block;
+    width: 100%;
+}
+
+.timelineLayout #contentCol {
+    background: none;
+    padding-top: 0;
+}
+
+#contentCol {
+    background-color: #fff;
+    padding-top: 15px;
+}
+
+.hasRightCol #contentArea {
+    width: 714px;
+}
+
+#contentArea {
+    margin-right: -1px;
+    outline: none;
+    padding-left: 1px;
+    word-wrap: break-word;
+}

@@ -1,0 +1,36 @@
+._6-d {
+    position: relative;
+}
+
+._6-d .timeLineSection {
+    border: 1px solid #d3d6db;
+    border-radius: 0 0 3px 3px;
+}
+
+#pagelet_above_header_timeline {
+    margin-left: 0;
+    margin-right: 0;
+    position: relative;
+    z-index: 1;
+}
+
+#fbProfileCover, #pagelet_above_header_timeline {
+    margin: -1px -1px 0;
+}
+
+#above_header_timeline_placeholder {
+    display: none;
+}
+
+.timelineLayout .timeLineTopSection {
+    margin: 0;
+    padding: 0;
+}
+
+.timeLineSection {
+    background: #fff;
+}
+
+#proFileCover, #pagelet_above_header_timeline {
+    margin: -1px -1px 0;
+}
