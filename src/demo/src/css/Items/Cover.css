@@ -1,0 +1,64 @@
+#proFileCover .coverWrap {
+    display: block;
+    position: relative;
+    height: 315px;
+    overflow: hidden;
+    text-decoration: none;
+}
+
+a {
+    color: #365899;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+#proFileCover .coverWrap .photo {
+    image-rendering: optimizeQuality;
+    min-height: 100%;
+    min-width: 100%;
+    position: absolute;
+    left: 0;
+}
+
+img {
+    border: 0;
+}
+
+.coverWrap .profilePicNotch, .coverWrap .instructionWrap {
+    display: none;
+}
+
+.webkit ._6-d #proFileCover .coverNoImage, .webkit ._6-d #proFileCover .coverBorder {
+    background: linear-gradient(rgba(0,0,0,0) 71%, rgba(0,0,0, .53));
+}
+
+._6-d #proFileCover .coverNoImage, ._6-d #proFileCover .coverBorder {
+    background: url(https://www.facebook.com/rsrc.php/v3/yY/r/nSlaHBdwDcH.png) bottom left repeat-x;
+    border-bottom-color: rgba(0, 0, 0, .4);
+}
+
+#proFileCover .coverBorder {
+    border: 1px solid #000;
+    border-color: rgba(0, 0, 0, .25);
+    border-top-color: rgba(0, 0, 0, .1);
+    bottom: 0;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.coverWrap .profilePicNotch, .coverWrap .instructionWrap {
+    display: none;
+}
+
+#proFileCover .coverChangeThrobber {
+    display: none;
+    left: 50%;
+    margin-top: -8px;
+    position: absolute;
+    top: 50%;
+}
+
+
+

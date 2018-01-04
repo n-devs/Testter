@@ -1,0 +1,47 @@
+._4kny {
+    float: left;
+}
+
+._19ea {
+    margin: 7px 0;
+    margin-left: -2px;
+    margin-right: 5px;
+}
+
+h1 {
+    font-size: 16px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #1d2129;
+    font-size: 15px;
+    margin: 0;
+    padding: 0;
+}
+
+._19eb {
+    display: inline-block;
+    outline: none;
+    padding: 2px;
+    position: relative;
+}
+
+a {
+    color: #365899;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+._2md {
+    background-image: url(/rsrc.php/v3/yr/r/OsPbsO754vF.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: 0 -138px;
+    display: block;
+    height: 24px;
+    outline: none;
+    overflow: hidden;
+    text-indent: -999px;
+    white-space: nowrap;
+    width: 24px;
+}

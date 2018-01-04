@@ -1,0 +1,9 @@
+._cy6:first-child {
+    padding-left: 0;
+}
+
+._cy6 {
+    display: inline-block;
+    padding: 0 9px;
+    vertical-align: top;
+}

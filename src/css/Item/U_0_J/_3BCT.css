@@ -1,0 +1,33 @@
+._5aj7 ._4bl7 {
+    float: none;
+}
+
+._4bl7, ._4bl9 {
+    word-wrap: break-word;
+}
+
+.mlm {
+    margin-left: 10px;
+}
+
+.pll {
+    padding-left: 20px;
+}
+
+._3bct {
+    position: relative;
+}
+
+._3_s1 ._3bct::before {
+    background: rgba(0, 0, 0, .3);
+}
+
+._3bct::before {
+    content: '';
+    display: block;
+    height: 18px;
+    left: -1px;
+    position: absolute;
+    top: 4px;
+    width: 1px;
+}

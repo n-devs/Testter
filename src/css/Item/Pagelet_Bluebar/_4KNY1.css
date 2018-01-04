@@ -1,0 +1,48 @@
+._2s24 {
+    margin-left: 1px;
+    position: relative;
+}
+
+._4kny {
+    float: left;
+}
+
+._2s1x ._2s24::before {
+    background: rgba(0, 0, 0, .1);
+}
+
+._2s24::before {
+    content: '';
+    display: block;
+    height: 18px;
+    left: -1px;
+    position: absolute;
+    top: 12px;
+    width: 1px;
+}
+
+._cy7 {
+    margin: 7px 0 8px 0;
+}
+
+._2s25 {
+    background-color: transparent;
+    color: inherit;
+    display: inline-block;
+    font-size: 14px;
+    -webkit-font-smoothing: antialiased;
+    font-weight: bold;
+    height: 27px;
+    line-height: 28px;
+    padding: 0 10px 1px;
+    position: relative;
+    text-decoration: none;
+    vertical-align: top;
+    white-space: nowrap;
+}
+
+a {
+    color: #365899;
+    cursor: pointer;
+    text-decoration: none;
+}

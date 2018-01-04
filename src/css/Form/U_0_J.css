@@ -1,0 +1,59 @@
+._3_s1._3_s0 {
+    background-color: #29487d;
+    color: #fff;
+}
+
+._3_s0._3_s0 {
+    border: 0;
+    display: flex;
+    -webkit-font-smoothing: antialiased;
+    height: 44px;
+    min-width: 600px;
+    position: relative;
+    text-align: left;
+    top: 0;
+    transition: top .3s, height .3s;
+    z-index: 301;
+}
+
+
+._3_s0._1toe {
+    height: 0;
+    overflow: hidden;
+}
+
+
+.noborder {
+    border: none;
+}
+
+.uiBoxGray {
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+}
+
+._2yq ._3_s0 ._608m, ._2xk0 ._3_s0 ._608m {
+    max-width: 1014px;
+}
+
+.sidebarMode ._3_s0 ._608m {
+    padding-right: 214px;
+}
+
+._3_s0 ._608m {
+    align-self: flex-end;
+    margin: 0 auto;
+    max-width: 981px;
+    min-width: 100px;
+    padding: 0 12px;
+    width: 100%;
+}
+
+._3_s0 ._tb6 {
+    align-items: center;
+    height: 44px;
+}
+
+._5aj7 {
+    display: flex;
+}
